@@ -1,0 +1,4 @@
+{
+  "extends": "./packages/training-engine/tsconfig.json",
+  "include": ["tests/**/*.ts", "scripts/catalog-migration.ts"]
+}
